@@ -1,0 +1,4 @@
+clean.pt
+clean2.pt
+__pycache__/
+*.core
